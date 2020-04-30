@@ -1,12 +1,1 @@
-{"directed": true,
- "graph": [],
- "links": [],
- "multigraph": false,
- "nodes": [{"id": "Emmett Bly", "score": 1, "size": 60, "type": "circle"},
-  {"id": "Ellie Bly", "score": 1, "size": 60, "type": "circle"},
-  {"id": "Randy Bly", "score": 1, "size": 60, "type": "circle"},
-  {"id": "Lydia Bly", "score": 1, "size": 60, "type": "circle"},
-  {"id": "Leanne Bly", "score": 1, "size": 60, "type": "circle"},
-  {"id": "Don Bly", "score": 1, "size": 60, "type": "circle"},
-  {"id": "Josephine Harrison", "score": 1, "size": 60, "type": "circle"},
-  {"id": "Jeph Harrison", "score": 1, "size": 60, "type": "circle"}]}
+{"graph": [], "directed": true, "multigraph": false, "links": [{"source": 0, "target": 1}, {"source": 0, "target": 2}, {"source": 1, "target": 6}, {"source": 1, "target": 7}, {"source": 1, "target": 0}, {"source": 1, "target": 3}, {"source": 1, "target": 2}, {"source": 2, "target": 4}, {"source": 2, "target": 5}, {"source": 2, "target": 0}, {"source": 2, "target": 3}, {"source": 2, "target": 1}, {"source": 3, "target": 1}, {"source": 3, "target": 2}], "nodes": [{"size": 60, "score": 1, "id": "Emmett Bly", "type": "circle"}, {"size": 60, "score": 1, "id": "Ellie Bly", "type": "circle"}, {"size": 60, "score": 1, "id": "Randy Bly", "type": "circle"}, {"size": 60, "score": 1, "id": "Lydia Bly", "type": "circle"}, {"size": 60, "score": 1, "id": "Leanne Bly", "type": "circle"}, {"size": 60, "score": 1, "id": "Don Bly", "type": "circle"}, {"size": 60, "score": 1, "id": "Josephine Harrison", "type": "circle"}, {"size": 60, "score": 1, "id": "Jeph Harrison", "type": "circle"}]}
